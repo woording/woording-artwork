@@ -1,2 +1,4 @@
 # woording-artwork
-All art assets like logos will go here
+Woording art assets
+![Woording Logo](./logo.png)
+![Woording Logo Square](./logo-square.png)
